@@ -5,4 +5,4 @@
 - 📫 How to reach me: Email (liujip2020@gmail.com)
 - 😄 Pronouns: He/Him/His
 
-[![liujip0's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujip0)](https://github.com/anuraghazra/github-readme-stats)
+[![liujip0's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=liujip0)](https://github.com/anuraghazra/github-readme-stats)
