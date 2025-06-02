@@ -6,7 +6,7 @@ Contact me through email [liujip2020@gmail.com](mailto:liujip2020@gmail.com) or 
 
 ## Right now:
 - I do robot programming for the robotics team [FRC3494 The Quadrangles](https://github.com/FRC3494)
-- I do fullstack development for [Indiana Scouting Alliance](https://github.com/liujip0/scouting)
+- I do fullstack development for [Indiana Scouting Alliance](https://github.com/Indiana-Scouting-Alliance)
 
 ## Stats
 [![liujip0's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=liujip0&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
