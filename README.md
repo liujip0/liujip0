@@ -16,5 +16,5 @@ Contact me through email [liujip2020@gmail.com](mailto:liujip2020@gmail.com) or 
 [![wakatime](https://wakatime.com/badge/user/41461c31-b3ab-4050-bbf9-46311264b3d5.svg)](https://wakatime.com/@41461c31-b3ab-4050-bbf9-46311264b3d5)
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
